@@ -23,7 +23,7 @@
 >> - Language : java
 >> - Skill : springBoot
 >> 
->> [프로젝트 상세 설명(Back-end)] (https://github.com/DuDungSil/BODYGUIDE_SV) 
+>> [프로젝트 상세 설명(Back-end)](https://github.com/DuDungSil/BODYGUIDE_SV) 
 >
 >> Front-end
 >> - Language : javascript
