@@ -13,7 +13,7 @@
 ## Strong
 
 ## Knowledge
-  mySQL, Redis, docker, nginx, React, nextJS, flutter, AWS, Git
+  mySQL, Redis, docker, nginx, React, nextJS, flutter, AWS, Git, SpringBoot, JPA, QueryDSL
 
 <br />
 
